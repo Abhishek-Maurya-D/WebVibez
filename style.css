@@ -4,7 +4,7 @@
     border: border-box; /* height and width of the content is count inside */
 }
 .navbar{
-    height: 60;
+    height: 60px;
     background-color: #0f1111;
     color: white;
 }
