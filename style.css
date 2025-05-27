@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box; /* height and width of the content is count inside */
+}
+.navbar{
+    height: 60;
+    background-color: #0f1111;
+    color: white;
+}
